@@ -455,12 +455,353 @@
             "name": "Slim Gaillard",
             "value": 1,
             "category": 8
+        },
+        {
+            "name": "Tennessee Ernie Ford",
+            "value": 1,
+            "category": 2
         }
     ],
     "links": [
         {
-            "source": 491,
-            "target": 94
+            "source": 43,
+            "target": 32
+        },
+        {
+            "source": 43,
+            "target": 33
+        },
+        {
+            "source": 43,
+            "target": 34
+        },
+        {
+            "source": 43,
+            "target": 35
+        },
+        {
+            "source": 43,
+            "target": 36
+        },
+        {
+            "source": 43,
+            "target": 37
+        },
+        {
+            "source": 43,
+            "target": 38
+        },
+        {
+            "source": 43,
+            "target": 39
+        },
+        {
+            "source": 43,
+            "target": 40
+        },
+        {
+            "source": 43,
+            "target": 41
+        },
+        {
+            "source": 43,
+            "target": 42
+        },
+        {
+            "source": 27,
+            "target": 43
+        },
+        {
+            "source": 28,
+            "target": 43
+        },
+        {
+            "source": 29,
+            "target": 43
+        },
+        {
+            "source": 30,
+            "target": 43
+        },
+        {
+            "source": 31,
+            "target": 43
+        },
+        {
+            "source": 59,
+            "target": 43
+        },
+        {
+            "source": 60,
+            "target": 43
+        },
+        {
+            "source": 61,
+            "target": 43
+        },
+        {
+            "source": 62,
+            "target": 43
+        },
+        {
+            "source": 6,
+            "target": 43
+        },
+        {
+            "source": 15,
+            "target": 0
+        },
+        {
+            "source": 15,
+            "target": 79
+        },
+        {
+            "source": 15,
+            "target": 16
+        },
+        {
+            "source": 15,
+            "target": 17
+        },
+        {
+            "source": 15,
+            "target": 18
+        },
+        {
+            "source": 15,
+            "target": 19
+        },
+        {
+            "source": 79,
+            "target": 15
+        },
+        {
+            "source": 23,
+            "target": 0
+        },
+        {
+            "source": 23,
+            "target": 7
+        },
+        {
+            "source": 23,
+            "target": 20
+        },
+        {
+            "source": 23,
+            "target": 21
+        },
+        {
+            "source": 23,
+            "target": 22
+        },
+        {
+            "source": 23,
+            "target": 29
+        },
+        {
+            "source": 23,
+            "target": 36
+        },
+        {
+            "source": 23,
+            "target": 44
+        },
+        {
+            "source": 15,
+            "target": 23
+        },
+        {
+            "source": 82,
+            "target": 10
+        },
+        {
+            "source": 82,
+            "target": 11
+        },
+        {
+            "source": 82,
+            "target": 12
+        },
+        {
+            "source": 82,
+            "target": 13
+        },
+        {
+            "source": 82,
+            "target": 45
+        },
+        {
+            "source": 8,
+            "target": 82
+        },
+        {
+            "source": 24,
+            "target": 82
+        },
+        {
+            "source": 9,
+            "target": 82
+        },
+        {
+            "source": 24,
+            "target": 5
+        },
+        {
+            "source": 25,
+            "target": 5
+        },
+        {
+            "source": 26,
+            "target": 5
+        },
+        {
+            "source": 80,
+            "target": 5
+        },
+        {
+            "source": 5,
+            "target": 1
+        },
+        {
+            "source": 5,
+            "target": 2
+        },
+        {
+            "source": 5,
+            "target": 3
+        },
+        {
+            "source": 5,
+            "target": 4
+        },
+        {
+            "source": 5,
+            "target": 14
+        },
+        {
+            "source": 5,
+            "target": 46
+        },
+        {
+            "source": 5,
+            "target": 47
+        },
+        {
+            "source": 5,
+            "target": 48
+        },
+        {
+            "source": 5,
+            "target": 49
+        },
+        {
+            "source": 5,
+            "target": 50
+        },
+        {
+            "source": 5,
+            "target": 51
+        },
+        {
+            "source": 5,
+            "target": 78
+        },
+        {
+            "source": 5,
+            "target": 81
+        },
+        {
+            "source": 5,
+            "target": 90
+        },
+        {
+            "source": 43,
+            "target": 58
+        },
+        {
+            "source": 58,
+            "target": 52
+        },
+        {
+            "source": 58,
+            "target": 53
+        },
+        {
+            "source": 58,
+            "target": 54
+        },
+        {
+            "source": 58,
+            "target": 55
+        },
+        {
+            "source": 77,
+            "target": 56
+        },
+        {
+            "source": 77,
+            "target": 57
+        },
+        {
+            "source": 77,
+            "target": 74
+        },
+        {
+            "source": 77,
+            "target": 75
+        },
+        {
+            "source": 77,
+            "target": 76
+        },
+        {
+            "source": 63,
+            "target": 77
+        },
+        {
+            "source": 64,
+            "target": 77
+        },
+        {
+            "source": 65,
+            "target": 77
+        },
+        {
+            "source": 66,
+            "target": 77
+        },
+        {
+            "source": 67,
+            "target": 77
+        },
+        {
+            "source": 68,
+            "target": 77
+        },
+        {
+            "source": 69,
+            "target": 77
+        },
+        {
+            "source": 70,
+            "target": 77
+        },
+        {
+            "source": 60,
+            "target": 77
+        },
+        {
+            "source": 72,
+            "target": 77
+        },
+        {
+            "source": 71,
+            "target": 77
+        },
+        {
+            "source": 73,
+            "target": 77
         }
     ]
 }
