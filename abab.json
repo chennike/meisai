@@ -2,24 +2,20 @@
     "type": "force",
     "categories": [
         {
-            "name": "HTMLElement",
-            "keyword": {},
-            "base": "HTMLElement"
+            "name": "Blues",
+            "keyword": {}
         },
         {
-            "name": "WebGL",
-            "keyword": {},
-            "base": "WebGLRenderingContext"
+            "name": "Comedy/Spoken",
+            "keyword": {}
         },
         {
-            "name": "SVG",
-            "keyword": {},
-            "base": "SVGElement"
+            "name": "Country",
+            "keyword": {}
         },
         {
-            "name": "CSS",
-            "keyword": {},
-            "base": "CSSRule"
+            "name": "Folk",
+            "keyword": {}
         },
         {
             "name": "Other",
