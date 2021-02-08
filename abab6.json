@@ -1,0 +1,800 @@
+{
+    "type": "force",
+    "categories": [
+        {
+            "name": "Blues",
+            "keyword": {}
+        },
+        {
+            "name": "Comedy/Spoken",
+            "keyword": {}
+        },
+        {
+            "name": "Country",
+            "keyword": {}
+        },
+        {
+            "name": "Folk",
+            "keyword": {}
+        },
+        {
+            "name": "Jazz",
+            "keyword": {}
+        },
+        {
+            "name": "Pop/Rock",
+            "keyword": {}
+        },
+        {
+            "name": "R&B;",
+            "keyword": {}
+        },
+        {
+            "name": "Reggae",
+            "keyword": {}
+        },
+        {
+            "name": "Vocal",
+            "keyword": {}
+        }
+    ],
+    "nodes": [
+        {
+            "name": "B.B. King",
+            "value": 47,
+            "category": 0
+        },
+        {
+            "name": "Allan Sherman",
+            "value": 49,
+            "category": 1
+        },
+        {
+            "name": "Spinal Tap",
+            "value": 80,
+            "category": 1
+        },
+        {
+            "name": "Monty Python",
+            "value": 48,
+            "category": 1
+        },
+        {
+            "name": "Tom Lehrer",
+            "value": 50,
+            "category": 1
+        },
+        {
+            "name": "Spike Jones",
+            "value": 36,
+            "category": 1
+        },
+        {
+            "name": "Buck Owens",
+            "value": 10,
+            "category": 2
+        },
+        {
+            "name": "Chet Atkins",
+            "value": 30,
+            "category": 2
+        },
+        {
+            "name": "Bob Wills",
+            "value": 1,
+            "category": 2
+        },
+        {
+            "name": "Merle Travis",
+            "value": 1,
+            "category": 2
+        },
+        {
+            "name": "Faron Young",
+            "value": 1,
+            "category": 2
+        },
+        {
+            "name": "Johnny Horton",
+            "value": 1,
+            "category": 2
+        },
+        {
+            "name": "Ian Tyson",
+            "value": 1,
+            "category": 2
+        },
+        {
+            "name": "Hank Thompson",
+            "value": 1,
+            "category": 2
+        },
+        {
+            "name": "Shel Silverstein",
+            "value": 1,
+            "category": 3
+        },
+        {
+            "name": "Lester Young",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Dizzy Gillespie",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "John Coltrane",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Charlie Parker",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Miles Davis",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "George Benson",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Mahavishnu Orchestra",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Wes Montgomery",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Charlie Christian",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Louis Jordan",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Cab Calloway",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Raymond Scott",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Little Richard",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Buddy Holly",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Chuck Berry",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Elvis Presley",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Bob Dylan",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "The Beach Boys",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "The Kinks",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Led Zeppelin",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Pink Floyd",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Jimi Hendrix",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Neil Young",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "David Bowie",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "The Who",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Brian Eno",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "The Byrds",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Black Sabbath",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "the beatles",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Stevie Ray Vaughan",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Ringo Starr",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Frank Zappa",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "The Residents",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "They Might Be Giants",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "The Bonzo Dog Band",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Van Dyke Parks",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "The Art of Noise",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Suzi Quatro",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Generation X",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "20/20",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Gerry Rafferty",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Britney Spears",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Christina Aguilera",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Tommy James & the Shondells",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "The Supremes",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "The Isley Brothers",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Fats Domino",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Smokey Robinson",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "En Vogue",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Gladys Knight",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Janet Jackson",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Mariah Carey",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Marvin Gaye",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Mary J. Blige",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Minnie Riperton",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Stevie Wonder",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "The Sweet Inspirations",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "TLC",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Whitney Houston",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Destiny's Child",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Ashanti",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "The Weeknd",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Aaliyah",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Lee Scratch Perry",
+            "value": 1,
+            "category": 7
+        },
+        {
+            "name": "Billie Holiday",
+            "value": 1,
+            "category": 8
+        },
+        {
+            "name": "Slim Gaillard",
+            "value": 1,
+            "category": 8
+        },
+        {
+            "name": "Jo Stafford",
+            "value": 1,
+            "category": 8
+        },
+        {
+            "name": "Tennessee Ernie Ford",
+            "value": 1,
+            "category": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 43,
+            "target": 32
+        },
+        {
+            "source": 43,
+            "target": 33
+        },
+        {
+            "source": 43,
+            "target": 34
+        },
+        {
+            "source": 43,
+            "target": 35
+        },
+        {
+            "source": 43,
+            "target": 36
+        },
+        {
+            "source": 43,
+            "target": 37
+        },
+        {
+            "source": 43,
+            "target": 38
+        },
+        {
+            "source": 43,
+            "target": 39
+        },
+        {
+            "source": 43,
+            "target": 40
+        },
+        {
+            "source": 43,
+            "target": 41
+        },
+        {
+            "source": 43,
+            "target": 42
+        },
+        {
+            "source": 27,
+            "target": 43
+        },
+        {
+            "source": 28,
+            "target": 43
+        },
+        {
+            "source": 29,
+            "target": 43
+        },
+        {
+            "source": 30,
+            "target": 43
+        },
+        {
+            "source": 31,
+            "target": 43
+        },
+        {
+            "source": 59,
+            "target": 43
+        },
+        {
+            "source": 60,
+            "target": 43
+        },
+        {
+            "source": 61,
+            "target": 43
+        },
+        {
+            "source": 62,
+            "target": 43
+        },
+        {
+            "source": 6,
+            "target": 43
+        },
+        {
+            "source": 15,
+            "target": 0
+        },
+        {
+            "source": 15,
+            "target": 79
+        },
+        {
+            "source": 15,
+            "target": 16
+        },
+        {
+            "source": 15,
+            "target": 17
+        },
+        {
+            "source": 15,
+            "target": 18
+        },
+        {
+            "source": 15,
+            "target": 19
+        },
+        {
+            "source": 79,
+            "target": 15
+        },
+        {
+            "source": 23,
+            "target": 0
+        },
+        {
+            "source": 23,
+            "target": 7
+        },
+        {
+            "source": 23,
+            "target": 20
+        },
+        {
+            "source": 23,
+            "target": 21
+        },
+        {
+            "source": 23,
+            "target": 22
+        },
+        {
+            "source": 23,
+            "target": 29
+        },
+        {
+            "source": 23,
+            "target": 36
+        },
+        {
+            "source": 23,
+            "target": 44
+        },
+        {
+            "source": 15,
+            "target": 23
+        },
+        {
+            "source": 82,
+            "target": 10
+        },
+        {
+            "source": 82,
+            "target": 11
+        },
+        {
+            "source": 82,
+            "target": 12
+        },
+        {
+            "source": 82,
+            "target": 13
+        },
+        {
+            "source": 82,
+            "target": 45
+        },
+        {
+            "source": 8,
+            "target": 82
+        },
+        {
+            "source": 24,
+            "target": 82
+        },
+        {
+            "source": 9,
+            "target": 82
+        },
+        {
+            "source": 24,
+            "target": 5
+        },
+        {
+            "source": 25,
+            "target": 5
+        },
+        {
+            "source": 26,
+            "target": 5
+        },
+        {
+            "source": 80,
+            "target": 5
+        },
+        {
+            "source": 5,
+            "target": 1
+        },
+        {
+            "source": 5,
+            "target": 2
+        },
+        {
+            "source": 5,
+            "target": 3
+        },
+        {
+            "source": 5,
+            "target": 4
+        },
+        {
+            "source": 5,
+            "target": 14
+        },
+        {
+            "source": 5,
+            "target": 46
+        },
+        {
+            "source": 5,
+            "target": 47
+        },
+        {
+            "source": 5,
+            "target": 48
+        },
+        {
+            "source": 5,
+            "target": 49
+        },
+        {
+            "source": 5,
+            "target": 50
+        },
+        {
+            "source": 5,
+            "target": 51
+        },
+        {
+            "source": 5,
+            "target": 78
+        },
+        {
+            "source": 5,
+            "target": 81
+        },
+        {
+            "source": 5,
+            "target": 90
+        },
+        {
+            "source": 43,
+            "target": 58
+        },
+        {
+            "source": 58,
+            "target": 52
+        },
+        {
+            "source": 58,
+            "target": 53
+        },
+        {
+            "source": 58,
+            "target": 54
+        },
+        {
+            "source": 58,
+            "target": 55
+        },
+        {
+            "source": 77,
+            "target": 56
+        },
+        {
+            "source": 77,
+            "target": 57
+        },
+        {
+            "source": 77,
+            "target": 74
+        },
+        {
+            "source": 77,
+            "target": 75
+        },
+        {
+            "source": 77,
+            "target": 76
+        },
+        {
+            "source": 63,
+            "target": 77
+        },
+        {
+            "source": 64,
+            "target": 77
+        },
+        {
+            "source": 65,
+            "target": 77
+        },
+        {
+            "source": 66,
+            "target": 77
+        },
+        {
+            "source": 67,
+            "target": 77
+        },
+        {
+            "source": 68,
+            "target": 77
+        },
+        {
+            "source": 69,
+            "target": 77
+        },
+        {
+            "source": 70,
+            "target": 77
+        },
+        {
+            "source": 60,
+            "target": 77
+        },
+        {
+            "source": 72,
+            "target": 77
+        },
+        {
+            "source": 71,
+            "target": 77
+        },
+        {
+            "source": 73,
+            "target": 77
+        }
+    ]
+}
