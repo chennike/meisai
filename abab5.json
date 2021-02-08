@@ -40,27 +40,22 @@
     ],
     "nodes": [
         {
-            "name": "Blues",
-            "value": 25,
+            "name": "B.B. King",
+            "value": 47,
             "category": 0
         },
         {
             "name": "Allan Sherman",
-            "value": 47,
-            "category": 1
-        },
-        {
-            "name": "Monty Python",
             "value": 49,
             "category": 1
         },
         {
-            "name": "Spike Jones",
+            "name": "Spinal Tap",
             "value": 80,
             "category": 1
         },
         {
-            "name": "Spinal Tap",
+            "name": "Monty Python",
             "value": 48,
             "category": 1
         },
@@ -70,9 +65,9 @@
             "category": 1
         },
         {
-            "name": "Bob Wills",
+            "name": "Spike Jones",
             "value": 36,
-            "category": 2
+            "category": 1
         },
         {
             "name": "Buck Owens",
@@ -85,22 +80,7 @@
             "category": 2
         },
         {
-            "name": "Faron Young",
-            "value": 1,
-            "category": 2
-        },
-        {
-            "name": "Hank Thompson",
-            "value": 1,
-            "category": 2
-        },
-        {
-            "name": "Ian Tyson",
-            "value": 1,
-            "category": 2
-        },
-        {
-            "name": "Johnny Horton",
+            "name": "Bob Wills",
             "value": 1,
             "category": 2
         },
@@ -110,22 +90,32 @@
             "category": 2
         },
         {
+            "name": "Faron Young",
+            "value": 1,
+            "category": 2
+        },
+        {
+            "name": "Johnny Horton",
+            "value": 1,
+            "category": 2
+        },
+        {
+            "name": "Ian Tyson",
+            "value": 1,
+            "category": 2
+        },
+        {
+            "name": "Hank Thompson",
+            "value": 1,
+            "category": 2
+        },
+        {
             "name": "Shel Silverstein",
             "value": 1,
             "category": 3
         },
         {
-            "name": "Cab Calloway",
-            "value": 1,
-            "category": 4
-        },
-        {
-            "name": "Charlie Christian",
-            "value": 1,
-            "category": 4
-        },
-        {
-            "name": "Charlie Parker",
+            "name": "Lester Young",
             "value": 1,
             "category": 4
         },
@@ -135,27 +125,12 @@
             "category": 4
         },
         {
-            "name": "George Benson",
-            "value": 1,
-            "category": 4
-        },
-        {
             "name": "John Coltrane",
             "value": 1,
             "category": 4
         },
         {
-            "name": "Lester Young",
-            "value": 1,
-            "category": 4
-        },
-        {
-            "name": "Louis Jordan",
-            "value": 1,
-            "category": 4
-        },
-        {
-            "name": "Mahavishnu Orchestra",
+            "name": "Charlie Parker",
             "value": 1,
             "category": 4
         },
@@ -165,7 +140,12 @@
             "category": 4
         },
         {
-            "name": "Raymond Scott",
+            "name": "George Benson",
+            "value": 1,
+            "category": 4
+        },
+        {
+            "name": "Mahavishnu Orchestra",
             "value": 1,
             "category": 4
         },
@@ -175,32 +155,27 @@
             "category": 4
         },
         {
-            "name": "20/20",
+            "name": "Charlie Christian",
             "value": 1,
-            "category": 5
+            "category": 4
         },
         {
-            "name": "20/20",
+            "name": "Louis Jordan",
             "value": 1,
-            "category": 5
+            "category": 4
         },
         {
-            "name": "Black Sabbath",
+            "name": "Cab Calloway",
             "value": 1,
-            "category": 5
+            "category": 4
         },
         {
-            "name": "Bob Dylan",
+            "name": "Raymond Scott",
             "value": 1,
-            "category": 5
+            "category": 4
         },
         {
-            "name": "Brian Eno",
-            "value": 1,
-            "category": 5
-        },
-        {
-            "name": "Britney Spears",
+            "name": "Little Richard",
             "value": 1,
             "category": 5
         },
@@ -210,18 +185,7 @@
             "category": 5
         },
         {
-            "name": "Christina Aguilera",
-            "value": 1,
-            "category": 5
-        },
-        {
             "name": "Chuck Berry",
-            "value": 1,
-            "category": 5
-        },
-        
-        {
-            "name": "David Bowie",
             "value": 1,
             "category": 5
         },
@@ -231,63 +195,7 @@
             "category": 5
         },
         {
-            "name": "Frank Zappa",
-            "value": 1,
-            "category": 5
-        },
-        {
-            "name": "Generation X",
-            "value": 1,
-            "category": 5
-        },
-        {
-            "name": "Gerry Rafferty",
-            "value": 1,
-            "category": 5
-        },
-        
-        {
-            "name": "Jimi Hendrix",
-            "value": 1,
-            "category": 5
-        },
-        {
-            "name": "Led Zeppelin",
-            "value": 1,
-            "category": 5
-        },
-        {
-            "name": "Little Richard",
-            "value": 1,
-            "category": 5
-        },
-        {
-            "name": "Neil Young",
-            "value": 1,
-            "category": 5
-        },
-        {
-            "name": "Pink Floyd",
-            "value": 1,
-            "category": 5
-        },
-        {
-            "name": "Ringo Starr",
-            "value": 1,
-            "category": 5
-        },
-        {
-            "name": "Stevie Ray Vaughan",
-            "value": 1,
-            "category": 5
-        },
-        {
-            "name": "Suzi Quatro",
-            "value": 1,
-            "category": 5
-        },
-        {
-            "name": "The Art of Noise",
+            "name": "Bob Dylan",
             "value": 1,
             "category": 5
         },
@@ -297,27 +205,32 @@
             "category": 5
         },
         {
-            "name": "the beatles",
-            "value": 1,
-            "category": 5
-        },
-        {
-            "name": "The Bonzo Dog Band",
-            "value": 1,
-            "category": 5
-        },
-        {
-            "name": "The Byrds",
-            "value": 1,
-            "category": 5
-        },
-        {
             "name": "The Kinks",
             "value": 1,
             "category": 5
         },
         {
-            "name": "The Residents",
+            "name": "Led Zeppelin",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Pink Floyd",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Jimi Hendrix",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Neil Young",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "David Bowie",
             "value": 1,
             "category": 5
         },
@@ -327,12 +240,52 @@
             "category": 5
         },
         {
+            "name": "Brian Eno",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "The Byrds",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Black Sabbath",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "the beatles",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Stevie Ray Vaughan",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Ringo Starr",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Frank Zappa",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "The Residents",
+            "value": 1,
+            "category": 5
+        },
+        {
             "name": "They Might Be Giants",
             "value": 1,
             "category": 5
         },
         {
-            "name": "Tommy James & the Shondells",
+            "name": "The Bonzo Dog Band",
             "value": 1,
             "category": 5
         },
@@ -342,27 +295,67 @@
             "category": 5
         },
         {
-            "name": "Aaliyah",
+            "name": "The Art of Noise",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Suzi Quatro",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Generation X",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "20/20",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Gerry Rafferty",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Britney Spears",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Christina Aguilera",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "Tommy James & the Shondells",
+            "value": 1,
+            "category": 5
+        },
+        {
+            "name": "The Supremes",
             "value": 1,
             "category": 6
         },
         {
-            "name": "Ashanti",
-            "value": 1,
-            "category": 6
-        },
-        {
-            "name": "Destiny's Child",
-            "value": 1,
-            "category": 6
-        },
-        {
-            "name": "En Vogue",
+            "name": "The Isley Brothers",
             "value": 1,
             "category": 6
         },
         {
             "name": "Fats Domino",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Smokey Robinson",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "En Vogue",
             "value": 1,
             "category": 6
         },
@@ -397,32 +390,12 @@
             "category": 6
         },
         {
-            "name": "Smokey Robinson",
-            "value": 1,
-            "category": 6
-        },
-        {
             "name": "Stevie Wonder",
             "value": 1,
             "category": 6
         },
         {
-            "name": "The Isley Brothers",
-            "value": 1,
-            "category": 6
-        },
-        {
-            "name": "The Supremes",
-            "value": 1,
-            "category": 6
-        },
-        {
             "name": "The Sweet Inspirations",
-            "value": 1,
-            "category": 6
-        },
-        {
-            "name": "The Weeknd",
             "value": 1,
             "category": 6
         },
@@ -437,6 +410,26 @@
             "category": 6
         },
         {
+            "name": "Destiny's Child",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Ashanti",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "The Weeknd",
+            "value": 1,
+            "category": 6
+        },
+        {
+            "name": "Aaliyah",
+            "value": 1,
+            "category": 6
+        },
+        {
             "name": "Lee Scratch Perry",
             "value": 1,
             "category": 7
@@ -447,12 +440,12 @@
             "category": 8
         },
         {
-            "name": "Jo Stafford",
+            "name": "Slim Gaillard",
             "value": 1,
             "category": 8
         },
         {
-            "name": "Slim Gaillard",
+            "name": "Jo Stafford",
             "value": 1,
             "category": 8
         },
