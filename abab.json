@@ -18,7 +18,23 @@
             "keyword": {}
         },
         {
-            "name": "Other",
+            "name": "Jazz",
+            "keyword": {}
+        },
+        {
+            "name": "Pop/Rock",
+            "keyword": {}
+        },
+        {
+            "name": "R&B;",
+            "keyword": {}
+        },
+        {
+            "name": "Reggae",
+            "keyword": {}
+        },
+        {
+            "name": "Vocal",
             "keyword": {}
         }
     ],
